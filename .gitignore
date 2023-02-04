@@ -1,0 +1,11 @@
+node_modules/
+dist/
+
+#compiled Java class files
+*.class
+
+#Compiled Python Bytecode
+*.py[cod]
+
+.parcel-cache
+
